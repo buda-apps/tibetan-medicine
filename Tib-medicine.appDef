@@ -4708,11 +4708,10 @@
   </images>
 
   <adaptive-icon>
-    <foreground inset="22.50%">
+    <foreground inset="20.50%">
       <image>ic_launcher_foreground.png</image>
     </foreground>
     <background>
-      <color value="#5251ff"/>
     </background>
   </adaptive-icon>
 </app-definition>
